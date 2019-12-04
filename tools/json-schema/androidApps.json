@@ -1,0 +1,1 @@
+{"type":"object","id":"urn:jsonschema:com:snapbytes:snaptest:mobile:AndroidConfig","additionalProperties":false,"properties":{"appPath":{"type":"string"},"packageId":{"type":"string"},"activityId":{"type":"string"}}}

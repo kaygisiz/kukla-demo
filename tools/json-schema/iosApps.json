@@ -1,0 +1,1 @@
+{"type":"object","id":"urn:jsonschema:com:snapbytes:snaptest:mobile:IosConfig","additionalProperties":false,"properties":{"appPath":{"type":"string"},"bundleId":{"type":"string"}}}

@@ -1,0 +1,14 @@
+{
+  "baseUrls": {
+    "app": "http://localhost:8080/"
+  },
+  "web": {
+    "browsers": {
+      "default": {
+        "type": "chrome"
+      }
+    },
+    "pageLoadTimeout": 3,
+    "elementTimeout": 1
+  }
+}

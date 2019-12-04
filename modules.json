@@ -1,0 +1,14 @@
+{
+  "webClient": true,
+  "mobileClient": true,
+  "winClient": false,
+  "sqlClient": false,
+  "restClient": false,
+  "soapClient": false,
+  "isLib": false,
+  "cxfVersion": null,
+  "language": "en",
+  "stepsPackages": [
+    "step"
+  ]
+}

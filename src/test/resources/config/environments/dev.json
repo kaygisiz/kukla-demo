@@ -1,6 +1,7 @@
 {
   "baseUrls": {
-    "app": "http://localhost:8080/"
+    "app": "http://localhost:8080/",
+    "app2": "http://localhost:8080/"
   },
   "web": {
     "browsers": {

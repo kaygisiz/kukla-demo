@@ -1,3 +1,5 @@
 {
-   "baseUrls": {}
+   "baseUrls": {},
+   "mobile": {},
+   "cassandra": {}
 }

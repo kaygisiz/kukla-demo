@@ -1,7 +1,7 @@
 {
   "baseUrls": {
     "app": "http://localhost:8080/master/test",
-    "app2b": "http://locafddsfdlhost:8080/"
+    "app2d": "http://locafddsfdlhost:8080/"
 
   },
   "web": {
@@ -10,7 +10,7 @@
         "type": "chrome"
       }
     },
-    "pageLoadTimeout": 26,
+    "pageLoadTimeout": 30,
 
     "elementTimeout": 1
   }

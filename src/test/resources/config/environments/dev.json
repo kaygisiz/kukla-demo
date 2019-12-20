@@ -1,7 +1,7 @@
 {
   "baseUrls": {
     "app": "http://localhost:8080/master/test",
-    "app2a": "http://locafddsfdlhost:8080/"
+    "app2z": "http://locafddsfdlhost:8080/"
 
   },
   "web": {

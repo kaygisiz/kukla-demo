@@ -1,6 +1,10 @@
 {
   "baseUrls": {
+<<<<<<< HEAD
+    "app": "http://localhost:8080/master3/test4",
+=======
     "app": "http://localhost:8080/master4/test3",
+>>>>>>> branch 'master' of https://github.com/kaygisiz/kukla-demo.git
     "app2a": "http://locafddsfdlhost:8080/"
   },
   "web": {

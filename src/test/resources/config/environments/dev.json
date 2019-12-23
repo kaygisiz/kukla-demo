@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+{
+  "baseUrls": {
+    "app": "http://localhost:8080/master/test1",
+    "app2a": "http://locafddsfdlhost:8080/"
+
+  },
+  "web": {
+    "browsers": {
+      "default": {
+        "type": "chrome"
+      }
+    },
+    "pageLoadTimeout": 11,
+
+
+    "elementTimeout": 1
+  }
+}
+=======
 {
   "baseUrls": {
     "app": "http://localhost:8080/master/test2",
@@ -16,3 +36,4 @@
     "elementTimeout": 1
   }
 }
+>>>>>>> branch 'master' of https://github.com/kaygisiz/kukla-demo.git

@@ -1,6 +1,6 @@
 {
   "baseUrls": {
-    "app": "http://localhost:8080/master/testades",
+    "app": "http://localhost:8080/master/testpulls",
     "app2b": "http://locafddsfdlhost:8080/"
   },
   "web": {
@@ -9,7 +9,7 @@
         "type": "chrome"
       }
     },
-    "pageLoadTimeout": 32,
+    "pageLoadTimeout": 29,
 
     "elementTimeout": 1
   }

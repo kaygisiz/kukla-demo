@@ -9,7 +9,7 @@
         "type": "chrome"
       }
     },
-    "pageLoadTimeout": 11,
+    "pageLoadTimeout": 13,
 
 
     "elementTimeout": 1
